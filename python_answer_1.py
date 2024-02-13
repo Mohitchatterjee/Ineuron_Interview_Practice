@@ -1,6 +1,5 @@
 # "write write write all the number from from from 1 to 100"
 
-
 class DSIQ:
     def __init__(self) -> None:
         pass
